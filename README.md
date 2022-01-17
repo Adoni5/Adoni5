@@ -4,7 +4,7 @@ Hi! I'm currently (09/12/2021) a post-graduate researcher at the University of N
   - 🐱‍💻 I'm currently working on:
     - [minoTour](https://github.com/LooseLab/minotourapp) - real-time monitoring of nanopore sequencers
     - [Swordfish](https://github.com/LooseLab/swordfish) - An inter-communicator for [minoTour](https://github.com/LooseLab/minotourapp) and [readfish](https://github.com/LooseLab/readfish)
-    - 🎄 [Advent of code!](https://github.com/Adoni5/AoC_2021)   🎅🎅🎅🎅
+    
 
   - 🔭 How to reach me:
     - Follow me on twitter for utter silence @rorymatics
