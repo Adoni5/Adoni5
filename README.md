@@ -1,5 +1,7 @@
+![cool pixel DNA art](dnapixels.PNG)
+
 ### About me
-Hi! I'm currently (09/12/2021) a post-graduate researcher at the University of Nottingham working on adaptive sampling with nanopore sequencing. I'm interested in all sorts of Bioinformatics, visualisations and fun side projects ( Some of which I even complete ). 
+Hi! I'm currently (22/04/2022) a post-graduate researcher at the University of Nottingham working on adaptive sampling with nanopore sequencing. I'm interested in all sorts of Bioinformatics, visualisations and fun side projects ( Some of which I even complete ). 
 
   - 🐱‍💻 I'm currently working on:
     - [minoTour](https://github.com/LooseLab/minotourapp) - real-time monitoring of nanopore sequencers
