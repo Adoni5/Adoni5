@@ -1,6 +1,6 @@
 <!-- ![cool pixel DNA art](DNA-Animation.gif) -->
 <p align="center">
-<img src="DNA-Animation.gif" width="50%" height="50%">
+<img src="dna-climb.gif" width="40%" height="40%">
  </p>
 <!--  <div id="toc_container" align="center">
 <p class="toc_title">Contents</p>
