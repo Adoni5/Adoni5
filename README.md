@@ -29,6 +29,8 @@ Hi! I'm currently (10/11/2022) a post-graduate researcher at the University of N
 [minoTour](https://github.com/LooseLab/minotourapp) - real-time monitoring of nanopore sequencers
 
 [Swordfish](https://github.com/LooseLab/swordfish) - An inter-communicator for [minoTour](https://github.com/LooseLab/minotourapp) and [readfish](https://github.com/LooseLab/readfish)
+ 
+[Advent Of Code](https://github.com/Adoni5/AdventOfCode1) 🎅🎅 - Just gotta love it
     
 
    🔭 How to reach me:
