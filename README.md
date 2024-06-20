@@ -22,6 +22,11 @@
 <p align="center">
 Hi! I'm currently (10/11/2022) a post-graduate researcher at the University of Nottingham working on adaptive sampling with nanopore sequencing. I'm interested in all sorts of Bioinformatics, visualisations and fun side projects ( Some of which I even complete ). 
 </p>
+
+<h2 align="center">Current mood</h2>
+<p align="center">
+<img src=https://github.com/Adoni5/Adoni5/assets/18659347/44aaee85-8e83-4db0-83ca-d1f96b714498>
+</p>
 <h2 align="center">Current Projects</h2>
 <div align="center" align-items="center">
    🐱‍💻 I'm currently working on:
